@@ -1,2 +1,28 @@
-# CS-SUBJECTS-OOPS-DBMS-OS-CN-SYSTEM-DESIGN-SOFTWARE-ENGINEERING-
-This contains Daily Topics that i have completed on daily basis which will help in being consistent and Daily Revision is must for subjects to gain insights on 
+DETAILED SELF MADE NOTES ON CS FUNDAMENTALS + INTERVIEW QUESTIONS
+
+
+#1:   SOFTWARE ENGINEERING
+
+
+
+#2: DATABASE MANAGEMENT SYSTEM
+
+
+
+
+#3: OPERATING SYSTEMS
+
+
+
+#4: COMPUTER NETWORKS
+
+
+
+
+#5:  OBJECT ORIENTED PROGRAMMING
+
+
+
+
+
+#6: SYSTEM DESIGN
